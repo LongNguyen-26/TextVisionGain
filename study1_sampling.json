@@ -1,0 +1,22 @@
+{
+  "analysis": {
+    "seed": 20260929,
+    "bootstrap_draws": 20000,
+    "primary_quantiles": [
+      0.00625,
+      0.99375
+    ],
+    "descriptive_quantiles": [
+      0.025,
+      0.975
+    ],
+    "primary_contrasts": [
+      "G_P",
+      "I"
+    ],
+    "corpora": [
+      "jdocqa",
+      "mpdocvqa"
+    ]
+  }
+}

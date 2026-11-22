@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this software when reproducing the manuscript exhibits."
+type: software
+title: "TextVisionGain: Reproduction code for How the Text Baseline Changes the Value of Page Images in Document Question Answering"
+authors:
+  - family-names: Nguyen
+    given-names: Viet Nhat Long
+  - family-names: Nguyen
+    given-names: Nang Hung Van
+repository-code: "https://github.com/LongNguyen-26/TextVisionGain"
+license: MIT

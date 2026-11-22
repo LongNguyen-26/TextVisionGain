@@ -1,0 +1,9 @@
+corpus,pages,source_split,candidates,S1,S0,U
+jdocqa,1-2,test,21,20,1,0
+jdocqa,1-2,train,53,45,8,0
+jdocqa,1-2,validation,16,12,2,2
+jdocqa,3-6,train,100,64,9,27
+jdocqa,7-20,train,110,43,8,59
+mpdocvqa,1-2,train,100,91,2,7
+mpdocvqa,3-6,train,100,65,5,30
+mpdocvqa,7-20,train,100,32,2,66
